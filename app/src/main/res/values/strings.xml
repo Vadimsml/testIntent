@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">testIntent</string>
+    <string name="text_test_intent">Test Intent</string>
+    <string name="text_btn">Go Intent</string>
+    <string name="btn_answer">Answer</string>
+</resources>
